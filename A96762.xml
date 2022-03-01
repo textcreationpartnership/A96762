@@ -1,0 +1,696 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Wither his prophesie of our present calamity, and (except we repent) future misery. Written by him in the yeare 1628.</title>
+            <title>Britain's remembrancer. Selections</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96762</idno>
+            <idno type="STC">Wing W3182</idno>
+            <idno type="STC">Thomason E89_28</idno>
+            <idno type="STC">ESTC R1830</idno>
+            <idno type="EEBO-CITATION">99860384</idno>
+            <idno type="PROQUEST">99860384</idno>
+            <idno type="VID">112504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Wither his prophesie of our present calamity, and (except we repent) future misery. Written by him in the yeare 1628.</title>
+                  <title>Britain's remembrancer. Selections</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.  An extract from "Britains Remembrancer". -- cf. BMC.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "feb: 16 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:112504:1"/>
+            <lg>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <l>Make all thy Scarlet ſins as white as Snow,</l>
+               <l>And caſt thy threatned judgement on thy foe.</l>
+               <l>But, if thou (fondly thinking thou art well)</l>
+               <l>Shalt ſlight this Meſſage, which my Muſe doth tell,</l>
+               <l>And ſcorne her Counſell; if thou ſhalt not rue</l>
+               <l>Thy former wayes; but, frowardly purſue</l>
+               <l>Thy wilfull courſe: then, hark what I am bold,</l>
+               <l>(In ſpight of all thy madneſſe) to unfold.</l>
+               <l>For, I will tell thy Fortune; which when they</l>
+               <l>That are unborne, ſhall reade, another day;</l>
+               <l>They will believe Gods mercy did infuſe</l>
+               <l>Thy Poets breaſt with a Prophetick Muſe.</l>
+               <l>And know, that he this Author did prefer,</l>
+               <l>To be from him, this <hi>Iles Remembrancer.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If thou I ſay Oh Britain ſhalt retain</l>
+               <l>Thy crying ſins, thou doſt preſume in vain,</l>
+               <l>Of Gods protection: If thou ſtop thine eare,</l>
+               <l>Or burne this Rowle, in which recorded are</l>
+               <l>Thy juſt Inditements; it ſhall written be</l>
+               <l>With new additions, deeply ſtampt on thee</l>
+               <l>With ſuch Characters, that no time ſhall race</l>
+               <l>Their fatall image, from thy ſcarred face.</l>
+               <l>Though haughtily thou doſt thy ſelfe diſpoſe;</l>
+               <l>Becauſe the Sea thy borders doth encloſe.</l>
+               <l>Although thou multiply thy inland Forces,</l>
+               <l>And muſter up large Troopes of men and horſes,</l>
+               <l>Though like an Eagle thou thy wings diſplay'ſt,</l>
+               <l>And (high thy ſelfe advancing) proudly ſay'ſt,</l>
+               <l>I ſit a loft, and am ſo high, that none</l>
+               <l>Can fetch me from the place I reſt upon.</l>
+               <l>Yea, though thou no advantages didſt want,</l>
+               <l>Of which the glorieſt Emperies did vaunt;</l>
+               <pb n="3" facs="tcp:112504:1"/>
+               <l>Yet, ſure, thou ſhalt be humbled and brought low,</l>
+               <l>Ev'n then, perhaps, when leſſe thou fear'ſt it ſo.</l>
+            </lg>
+            <lg>
+               <l>Till thou repent, proviſions which are made</l>
+               <l>For thy defence, or others to invade,</l>
+               <l>Shall be in vaine; and ſtill, the greater coſt</l>
+               <l>Thou ſhalt beſtow, the honour that is loſt</l>
+               <l>Shall be the greater; and thy waſted ſtrength</l>
+               <l>Be ſick of a conſumption at the length.</l>
+               <l>Thy <hi>Treaties</hi> which for peace or profit be,</l>
+               <l>Shall neither peace, nor profit bring to thee.</l>
+               <l>Yea, all thy winnings ſhall but fewell be,</l>
+               <l>To feed thoſe follies that now ſpring in thee.</l>
+               <l>On all thy fruits and cattell in the fields,</l>
+               <l>On what the ayre, or what the water yeelds,</l>
+               <l>On Prince, and People, on both weak and ſtrong,</l>
+               <l>On Prieſt and Prophet, on both old and yong,</l>
+               <l>Yea, on each perſon, place, and every thing,</l>
+               <l>The plague it hath deſerved God ſhall bring.</l>
+               <l>A leanneſſe ſhall thy fatneſſe quite devoure;</l>
+               <l>Thy wheat ſhall in the place of wholſome flowre,</l>
+               <l>Yeeld nought but bran. Inſtead of graſſe and corne,</l>
+               <l>Thou ſhalt in time of harveſt reap the thorne,</l>
+               <l>The thiſtle, and the bryar. Of their ſhadowes</l>
+               <l>Thy Groves ſhall robbed be. Thy flower Medowes</l>
+               <l>Shall ſterill wax. There ſhall be ſeldome ſeen</l>
+               <l>Sheep on the Downes, or Shepheards on the green.</l>
+               <l>Thy walkes, thy gardens, and each pleaſant plot,</l>
+               <l>Shall be as thoſe where men inhabite not.</l>
+               <l>Thy Villages, where goodly dwellings are,</l>
+               <l>Shall ſtand as if they unfrequented were.</l>
+               <l>Thy Cities, and thy Palaces, wherein</l>
+               <l>Moſt neatneſſe and magnificence hath been,</l>
+               <pb n="4" facs="tcp:112504:2"/>
+               <l>Shall heapes of rubbiſh be, and (as in thoſe</l>
+               <l>Demoliſh't Abbies, where in Dawes and Crowes</l>
+               <l>Now make their neſts) the Bramble and the Nettle,</l>
+               <l>Shall in their Halls and Parlours root and ſettle:</l>
+               <l>And moreover, they that now ate trained,</l>
+               <l>In eaſe, and with ſoft pleaſures entertained;</l>
+               <l>In ſtead of idle games, and wanton dances,</l>
+               <l>Shall praciſe how to handle Guns and Launces,</l>
+               <l>And be compell'd to leave their friends embraces,</l>
+               <l>To end their lives in divers uncough places,</l>
+               <l>Or elſe, thy face, with their owne blood defile,</l>
+               <l>In hope to keepe themſelves and thee from ſpoile.</l>
+            </lg>
+            <lg>
+               <l>Thy pureſt Rivers God ſhall turne to blood;</l>
+               <l>With every lake that hath beene ſweete and good</l>
+               <l>Ev'n in thy noſtrils he ſhall make it ſtinke,</l>
+               <l>For nothing ſhall thy people eate or drinke,</l>
+               <l>Untill their owne, or others blood it coſt;</l>
+               <l>Or put their lives in hazard to be loſt.</l>
+            </lg>
+            <lg>
+               <l>Moſt loathſome Frogs; that is a race impure,</l>
+               <l>Of baſe condition, and of birth obſcure,</l>
+               <l>This hatefull brood ſhall climbe to crooke and ſing,</l>
+               <l>Within the lodging Chambers of the <hi>King;</hi>
+               </l>
+               <l>Yea, there make practiſe of thoſe naturall notes,</l>
+               <l>Which iſſue from their evill ſounding throates;</l>
+               <l>To wit, vaine brags, revilings, ribaldries,</l>
+               <l>Vile ſlaunders, and unchriſtian blaſphemies.</l>
+            </lg>
+            <lg>
+               <l>The Land ſhall breede a naſty Generation,</l>
+               <l>Unworthy either of the reputation</l>
+               <l>Or name of men; for, they as lice ſhall feed,</l>
+               <l>Even on the body whence they did proceed;</l>
+               <l>There ſhall moreover ſwarmes of divers <hi>Flies,</hi>
+               </l>
+               <l>Engendred be in thy proſperities,</l>
+               <pb n="5" facs="tcp:112504:2"/>
+               <l>To be a plague: and ſtill are humming ſo,</l>
+               <l>As if they meant ſome weighty worke to doe,</l>
+               <l>When as, upon the common ſtocke they ſpend;</l>
+               <l>And naught performe of that which they pretend.</l>
+            </lg>
+            <lg>
+               <l>Then ſhall a darkeneſſe follow, farre more black,</l>
+               <l>Then when the light corporeall then doſt lacke.</l>
+               <l>For, groſſeſt ignorance, o' reſhadowing all,</l>
+               <l>Shall in ſo thicke a darkeneſſe thee inthrall,</l>
+               <l>That thou a blockiſh people ſhalt be made,</l>
+               <l>Still wandring on in a deceiving ſhade,</l>
+               <l>Miſtruſting thoſe, that ſafeſt paths are ſhowing,</l>
+               <l>Moſt truſting them who counſell thy undoing;</l>
+               <l>And aye tormented be with doubts and feares,</l>
+               <l>As one that Out-cries in clarke places heares.</l>
+            </lg>
+            <lg>
+               <l>Nor ſhall the hand of God from thee returne,</l>
+               <l>Till he hath alſo ſmote thy 'eldeſt borne.</l>
+               <l>That is, till he hath take from thee quite,</l>
+               <l>Ev'n that whereon thou ſet'ſt thy whole delight;</l>
+               <l>And filled ev'ry houſe throughout thy Nation,</l>
+               <l>With deaths unlooked for, and lamentation.</l>
+            </lg>
+            <lg>
+               <l>So great ſhall be thy ruine, and thy ſhame,</l>
+               <l>That when thy neighbouring Kingdomes heare the ſame,</l>
+               <l>Their eares ſhall tingle. And when that day comes,</l>
+               <l>In which thy follies moſt receive their doomes;</l>
+               <l>A day of clouds, a day of gloomineſſe.</l>
+               <l>A day of blacke deſpaire and heavineſſe,</l>
+               <l>It will appeare. And then thy vanities,</l>
+               <l>Thy gold and ſilver, thy confedracies,</l>
+               <l>And all thoſe Reedes on which thou haſt depended,</l>
+               <l>Will faile thy truſt, and leave thee unbefriended.</l>
+            </lg>
+            <lg>
+               <l>Thy King, thy Prieſts, and Prophets then ſhall mourne,</l>
+               <l>And peradventure fainedly returne</l>
+               <pb n="6" facs="tcp:112504:3"/>
+               <l>To beg of God to ſuccour them: but they,</l>
+               <l>who will not harken to his voyce to day,</l>
+               <l>Shall cry unheeded: and he will deſpiſe</l>
+               <l>Their Vowes, their Prayers, and their Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>A Sea of troubles, all thy hopes ſhall ſwallow;</l>
+               <l>As waves on waves, ſo plague on plague ſhall follow:</l>
+               <l>And every thing, that was a bleſſing to thee,</l>
+               <l>Shall turne to be a curſe, and helpe undoe thee.</l>
+               <l>And when thy ſinne is fully ripe in thee,</l>
+               <l>Thy Prince and People, then, alike ſhall be.</l>
+               <l>Thou ſhalt have Babes to be thy Kings, or worſe,</l>
+               <l>Thoſe Tyrants who by cruelty and force,</l>
+               <l>Shall take away thy ancient freedomes quite,</l>
+               <l>From all their <hi>Subjects;</hi> yea themſelves delight</l>
+               <l>In their vexations: and, all thoſe that are</l>
+               <l>Made ſlaves thereby, ſhall murmure, yet not dare</l>
+               <l>To ſtir againſt them. By degrees they ſhall</l>
+               <l>Deprive thee of thy Patrimonials all;</l>
+               <l>Compell thee (as in other Lands this day)</l>
+               <l>For thine owne meate, and thine own drink to pay.</l>
+               <l>And, at the laſt begin to exerciſe</l>
+               <l>Upon thy Sons, all heatheniſh tyrannies,</l>
+               <l>As juſt <hi>Prerogatives.</hi> To theſe intents,</l>
+               <l>Thy Nobles ſhall become their inſtruments;</l>
+               <l>For they who had their birth from Noble races,</l>
+               <l>Shall (ſome and ſome) be brought into diſgraces.</l>
+               <l>From Offices they ſhall excluded ſtand,</l>
+               <l>And all their vertuous off-ſpring, from their Land</l>
+               <l>Shall quite be worne: Inſtead of whom ſhall riſe</l>
+               <l>A brood advanced by impieties.</l>
+               <l>That ſeek how they more great and ſtrong may grow,</l>
+               <l>By compaſſing the publique overthrow.</l>
+               <pb n="7" facs="tcp:112504:3"/>
+               <l>They ſhall abuſe thy Kings with Tales and Lies;</l>
+               <l>With ſeeming love, and ſervile flatteries;</l>
+               <l>They ſhall perſwade them they have power to make,</l>
+               <l>Their Wills, their Law, and as they pleaſe to take</l>
+               <l>Their peoples goods, their children and their lives,</l>
+               <l>Ev'n by their juſt and due <hi>Prerogatives.</hi>
+               </l>
+               <l>When thus much they have made them to beleeve,</l>
+               <l>Then they ſhall teach them practiſes to grieve</l>
+               <l>Their Subjects by, and inſtruments become</l>
+               <l>To helpe the ſcruing up by ſome and ſome,</l>
+               <l>Of <hi>Monarchies</hi> to <hi>Tyrannies.</hi> They ſhall</l>
+               <l>Abuſe <hi>Religion, Honeſty,</hi> and all,</l>
+               <l>To compaſſe their Deſignes. They ſhall deviſe</l>
+               <l>Strange Projects; and with impudence and lies,</l>
+               <l>Proceed in ſetling them. They ſhall forget</l>
+               <l>Thoſe reverent uſages which doe befit</l>
+               <l>The Majeſtie of <hi>State;</hi> and raile, and ſtorme,</l>
+               <l>When they pretend diſorders to reforme.</l>
+               <l>In their high <hi>Counſells,</hi> and where men ſhould have</l>
+               <l>Kinde admonitions, and reprovings grave,</l>
+               <l>When they offend, they ſhall be threatned there,</l>
+               <l>Or ſcoft, or taunted, though no cauſe appeare.</l>
+            </lg>
+            <lg>
+               <l>What ever from thy people they can teare,</l>
+               <l>Or borrow, they ſhall keepe, as if it were</l>
+               <l>A prize which had beene taken from the foe,</l>
+               <l>And they ſhall make no conſcience what they doe</l>
+               <l>To prejudice <hi>Poſterity.</hi> For, they</l>
+               <l>To gaine their luſt, but for the preſent day,</l>
+               <l>Shall with ſuch love unto themſelves endeavour,</l>
+               <l>That (though they know it would undoe for ever</l>
+               <l>Their owne poſteritie) it ſhall not make</l>
+               <l>The <hi>Monſters</hi> any better courſe to take.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:112504:4"/>
+               <l>Nay, God ſhall give them for their offences,</l>
+               <l>To ſuch uncomely reprobated ſenſe:</l>
+               <l>And blind them ſo, that (when the Axe they ſee</l>
+               <l>Ev'n hewing at the roote of thine owne tree,</l>
+               <l>By their owne handy ſtrokes) they ſhall not grieve</l>
+               <l>For their approaching fall: no, nor beleeve</l>
+               <l>Their fall approacheth, nor aſſume that heed,</l>
+               <l>Which might prevent; till they fall indeed.</l>
+            </lg>
+            <lg>
+               <l>Marke well, oh <hi>Brittaine!</hi> What I now ſhall ſay,</l>
+               <l>And doe not ſlightly paſſe theſe words away;</l>
+               <l>But, be aſſured that when God beginnes,</l>
+               <l>To bring that vengeance on thee for ſinnes,</l>
+               <l>Which hazzard will thy totall overthrow,</l>
+               <l>Thy Prophets, and thy Prieſts ſhall ſlily ſow</l>
+               <l>The ſeeds of that diſſention, and ſedition,</l>
+               <l>Which time will ripen for thy ſaid perdition.</l>
+               <l>But, not unleſſe the Prieſts thereto conſent,</l>
+               <l>for in thoſe dayes ſhall few men innocent</l>
+               <l>be grieved (through any quarter of the Land)</l>
+               <l>In which thy <hi>Clergy</hi> ſhall not have ſome hand.</l>
+               <l>If ever in thy fields (as God forbid)</l>
+               <l>The blood of thine owne children ſhall be ſhed</l>
+               <l>By civill diſcord, they ſhall blow thy flame,</l>
+               <l>That will become thy ruine, and thy ſhame;</l>
+               <l>And thus it will be kindled, when the times</l>
+               <l>Are nigh at worſt, and thy increaſing crimes,</l>
+               <l>Almoſt compleate; the Devill ſhall begin,</l>
+               <l>To bring ſtrange Crotchets and Opinions in</l>
+               <l>Among thy <hi>Teachers,</hi> which will breede diſunion</l>
+               <l>And interrupt the viſible Communion</l>
+               <l>Of thy eſtabliſh't <hi>Church.</hi> And in the ſteed</l>
+               <l>Of zealous Paſtors (who Gods Flocke did feed)</l>
+               <pb n="9" facs="tcp:112504:4"/>
+               <l>There ſhall ariſe within thee, by degrees,</l>
+               <l>A Clergie, that ſhall more deſire to fleece</l>
+               <l>then feed the Flock. A Clergy it ſhall be</l>
+               <l>Divided in it ſelfe: and they ſhall thee</l>
+               <l>Divide among them, into ſeverall factions,</l>
+               <l>Which rend thee will, and fill thee with diſtractions:</l>
+               <l>They all in outward-ſeeming ſhall pretend</l>
+               <l>Gods glory, and to have a pious end;</l>
+               <l>But under colour of ſincere devotion,</l>
+               <l>Their ſtudy ſhall be temporall promotion;</l>
+               <l>Which will among themſelves ſtrong quarrels make,</l>
+               <l>Wherein thy other children ſhall partake.</l>
+               <l>As to the Perſons or the cauſe they ſtand</l>
+               <l>Affected, ev'n quite throughout the <hi>Land.</hi>
+               </l>
+               <l>One part of theſe will for preferment ſtrive,</l>
+               <l>By lifting up the Kings Prerogative</l>
+               <l>Above it ſelfe; They ſhall perſwade him to</l>
+               <l>Much more then <hi>Law,</hi> or <hi>Conſcience</hi> bids him do;</l>
+               <l>And ſay God warrants it. His holy <hi>Laws</hi>
+               </l>
+               <l>They ſhall protect; to juſtifie their cauſe:</l>
+               <l>And impudentlie wreſt, to prove their ends,</l>
+               <l>What God or better purpoſes intends.</l>
+               <l>They ſhall not bluſh to ſay, that ev'ry <hi>King</hi>
+               </l>
+               <l>May doe like <hi>Solomon</hi> in every thing,</l>
+               <l>As if they had his warrant: and ſhall dare</l>
+               <l>Aſcribe to Monarchs, rights that proper are</l>
+               <l>To none but Chriſt; and mixe their flatteries</l>
+               <l>With no leſſe groſſe and wicked blaſphemies,</l>
+               <l>Then Heathens did yea make their <hi>King</hi> believe,</l>
+               <l>That whomſoever they oppreſſe or grieve</l>
+               <l>It is no wrong; nor fit for men oppreſſed</l>
+               <l>To ſeek by their own <hi>Laws</hi> to be redreſſed.</l>
+               <l>Nay further, to their wicked ends they ſhall</l>
+               <pb n="10" facs="tcp:112504:5"/>
+               <l>Apply the ſacred <hi>Story;</hi> or what ever,</l>
+               <l>May ſeeme to further their unjuſt endeavour</l>
+               <l>Ev'n what the Sonne of <hi>Hannah</hi> told the Jewes</l>
+               <l>Should be their ſcourge (becauſe they did refuſe</l>
+               <l>The Sov'raignty of God, and were ſo vaine,</l>
+               <l>To aske a King, which over them might raigne</l>
+               <l>As Heathen <hi>Princes</hi> did) that curſe, they ſhall</l>
+               <l>Affirme to be a Law <hi>Monarchicall,</hi>
+               </l>
+               <l>Which God himſelfe eſtabliſhed to ſtand,</l>
+               <l>Through all ages, and in every Land,</l>
+               <l>Which is as good <hi>Divinity,</hi> as they</l>
+               <l>Have alſo taught, who doe not bluſh to ſay</l>
+               <l>That <hi>Kings</hi> may have both <hi>Wives</hi> and <hi>Concubines,</hi>
+               </l>
+               <l>And, by that Rule whereby theſe great <hi>Divines</hi>
+               </l>
+               <l>Shall prove their <hi>Tenet,</hi> I dare undertake</l>
+               <l>(If found it hold) that I like proofe will make</l>
+               <l>Of any <hi>Jewiſh</hi> Cuſtome, and deviſe,</l>
+               <l>Authoritie for all abſurdities.</l>
+               <l>But, falſe it is; for, might all Kings at pleaſure</l>
+               <l>(As by the right of Royaltie) make ceaſure</l>
+               <l>Of any mans poſſeſſions: why I pray</l>
+               <l>Did <hi>Ahab</hi> grieve, that <hi>Naboth</hi> ſaid him nay?</l>
+               <l>Why made he not this anſwer thereunto,</l>
+               <l>(If what the <hi>Prophet</hi> ſaid ſome <hi>Kings</hi> would doe,</l>
+               <l>Were juſtly to be done) thy <hi>Vineyard's</hi> mine,</l>
+               <l>And, at my pleaſure, <hi>Naboth,</hi> all that's thine</l>
+               <l>Aſſume I may, why, like a Turkie-chicke</l>
+               <l>Did he ſo fooliſhly grow fullen-ſicke,</l>
+               <l>And get poſſeſſion by a wicked fact</l>
+               <l>Of what might have beene his by royall act?</l>
+               <l>If ſuch Divinitie as this were true,</l>
+               <l>The Queene ſhould not have needed to purſue</l>
+               <l>Poore <hi>Naboth,</hi> as ſhe did, or ſo contrive</l>
+               <l>His death; ſince by the <hi>Kings Prerogative</hi>
+               </l>
+               <pb n="11" facs="tcp:112504:5"/>
+               <l>She might have got his <hi>Vineyard.</hi> Nor would God,</l>
+               <l>Have ſcourg'd that murther with ſo keen a rod,</l>
+               <l>On <hi>Ahab,</hi> had he aked but his due:</l>
+               <l>For, he did neither plot, nor yet purſue</l>
+               <l>The murther; nor (for ought that we can tell)</l>
+               <l>Had knowledge of the deed of <hi>Jezabel,</hi>
+               </l>
+               <l>Till God reveal'd it by the Prophet to him.</l>
+               <l>Nor is it ſaid, that <hi>Naboth</hi> wrong did doe him,</l>
+               <l>Or diſreſpect, in that he did not yeeld,</l>
+               <l>To ſell, or give, or to exchange his Field.</l>
+               <l>Now if what here is mention'd, thou doſt heed,</l>
+               <l>(Oh <hi>Brittaine!</hi>) in thoſe times that ſhall ſucceed,</l>
+               <l>It may prevent much loſſe, and make thee ſhun</l>
+               <l>Thoſe miſchiefes, whereby Kingdomes are undone.</l>
+               <l>But, to thy other ſins, if thou ſhalt adde</l>
+               <l>Rebellions (as falſe Prophets will perſwade)</l>
+               <l>Which likely are to follow, when thou ſhalt</l>
+               <l>In thy profeſſion of <hi>Religion</hi> halt:</l>
+               <l>Then will thy Kings and people ſcourge each other</l>
+               <l>For their offences, till both fall together.</l>
+               <l>By weakning of your powers to make them way,</l>
+               <l>Who ſeeke and looke for that unhappy day.</l>
+            </lg>
+            <lg>
+               <l>Then ſhall diſorder ev'ry where abound,</l>
+               <l>And neither juſt nor pious man be found,</l>
+               <l>The beſt ſhall be a <hi>Bryer</hi> and a <hi>Thorn,</hi>
+               </l>
+               <l>By whom their neighbour, ſhall be ſcratcht and torne.</l>
+               <l>Thy <hi>Princes</hi> ſhall to nothing condiſcend</l>
+               <l>For any merit, juſt, or pious end;</l>
+               <l>But either for increaſing of their treaſure,</l>
+               <l>Or for accompliſhing their wilfull pleaſure:</l>
+               <l>And unto what they fell, or daigne for meed,</l>
+               <l>There ſhall be given little truſt or heed:</l>
+               <l>For, that which by their words confirme they ſhall</l>
+               <l>(The Royall ſeales uniting there withall)</l>
+               <pb n="12" facs="tcp:112504:6"/>
+               <l>A toy ſhall fruſtrate, and a gift ſhall make</l>
+               <l>Their ſtrickeſt <hi>Orders</hi> no effect to take.</l>
+               <l>The Parents, and the Children ſhall diſpiſe</l>
+               <l>And hate, and ſpoile each other: ſhe that lies,</l>
+               <l>Within her husbands boſome, ſhall betray him;</l>
+               <l>They who thy people ſhould protect, ſhall ſlay them<g ref="char:punc">▪</g>
+               </l>
+               <l>The aged ſhall regarded be of none,</l>
+               <l>The poore ſhall by the rich be troden on:</l>
+               <l>Such grievous inſolencies, every where</l>
+               <l>Shall acted be; that good and bad ſhall feare</l>
+               <l>In thee to dwell; and men diſcreet ſhall hate</l>
+               <l>To be a <hi>Ruler,</hi> or a <hi>Magiſtrate;</hi>
+               </l>
+               <l>When they behold (without impenitence)</l>
+               <l>So much injustice, and ſuch violence.</l>
+            </lg>
+            <lg>
+               <l>And when thy wickedneſſe this height ſhall gaine,</l>
+               <l>To which no doubt it will ere long attaine,</l>
+               <l>If thou proceed. Then from the bow that's bent,</l>
+               <l>(And halfe way drawne already) ſhall be ſent</l>
+               <l>A mortall arrow: and it pierce thee ſhall</l>
+               <l>Quite through the head, the liver, and the gall.</l>
+            </lg>
+            <lg>
+               <l>The Lord ſhall call; and whiſtle from a far,</l>
+               <l>For thoſe thine enemies that fierceſt are,</l>
+               <l>For thoſe thou feareſt moſt; and they ſhall from</l>
+               <l>Their Countries, like a whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le wind hither come</l>
+               <l>They ſhall not ſleep, nor ſtumble, nor untie</l>
+               <l>Their garments, till within thy fields they lie.</l>
+               <l>Sharpe ſhall their arrowes be, and ſtrong their bow,</l>
+               <l>Their faces ſhall as full of horrour ſhew,</l>
+               <l>As doth a Lyons. Like a bolt of thunder,</l>
+               <l>Their troopes of horſe ſhall come and tread thee under</l>
+               <l>Their iron feete. Thy foes ſhall eate thy bread,</l>
+               <l>And with thy Flocks both clothed be and fed.</l>
+               <l>Thy dwellers, they ſhall tarrie from their own,</l>
+               <l>To Countries which their Fathers have not knowne:</l>
+               <pb n="13" facs="tcp:112504:6"/>
+               <l>And thither ſhall ſuch miſchiefes them purſue,</l>
+               <l>That they who ſeeke the pit-fall, to eſchew,</l>
+               <l>Shall in a ſnare be taken. If they ſhall</l>
+               <l>Eſcape the Sword, and Serpent in the wall</l>
+               <l>To death ſhall ſting them: yea (although they hap,</l>
+               <l>To ſhun a hundred plagues) they ſhall not ſcape;</l>
+               <l>But, with new danger ſtill be chas'd about,</l>
+               <l>Untill that they are wholly rooted out.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Plowman,</hi> then, ſhall be afraid to ſow;</l>
+               <l>Artificers, their labour ſhall foregoe;</l>
+               <l>The Merchant man ſhall croſſe the ſeas no more,</l>
+               <l>(Except to flie and ſeek ſome other ſhore)</l>
+               <l>Thy ableſt men ſhall faint, the wiſe ones, then,</l>
+               <l>Shall know themſelves to be but fooliſh men.</l>
+               <l>And they who built and planted by oppreſſion</l>
+               <l>Shall leave their gettings to the foes poſſeſſion.</l>
+               <l>Yea, God will ſcourge thee, <hi>England,</hi> ſeven times more,</l>
+               <l>With ſeven times greater <hi>Plagues</hi> then heretofore.</l>
+               <l>Then, thy <hi>Allies</hi> their friendſhip ſhall withdraw;</l>
+               <l>And, they that of thy greatneſſe ſtood in awe,</l>
+               <l>Shall ſay (in ſcorne) is this the valiant Nation,</l>
+               <l>That had throughout the world ſuch reputation,</l>
+               <l>By Victories upon the ſhore? Are theſe</l>
+               <l>That people that were Maſters of the Seas,</l>
+               <l>And grew ſo mightie? Yea, that prettie Nation,</l>
+               <l>That not worthie of thy indignation,</l>
+               <l>Shall mock thee too; and all thy former fame,</l>
+               <l>Forgot ſhall be, or mention'd to thy ſhame.</l>
+            </lg>
+            <lg>
+               <l>Then woe to them who darkneſſe more have lov'd</l>
+               <l>Then light: and good advice have diſapprov'd:</l>
+               <l>For they ſhall wander in a crooked path,</l>
+               <l>Which neither light, nor end, nor comfort hath.</l>
+               <l>And when for <hi>Guides</hi> and <hi>Counſell,</hi> they do cry,</l>
+               <l>Not one ſhall pitty them who paſſeth by.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:112504:7"/>
+               <l>Then woe to them that have corrupted been,</l>
+               <l>To juſtifie the wicked in his ſin;</l>
+               <l>Or, for a bribe the righteous to condemn:</l>
+               <l>For flames (as on the chaffe) ſhall ſeize on them:</l>
+               <l>Their bodies to the Dunghill ſhall be caſt;</l>
+               <l>Their flower ſhall turne to duſt; their flock ſhall waſt,</l>
+               <l>And all the glorious titles they have worne,</l>
+               <l>Shall but increaſe their infamy and ſcorne.</l>
+            </lg>
+            <lg>
+               <l>Then woe to them that have been rais'd aloft</l>
+               <l>By good mens ruins; and by laying ſoft</l>
+               <l>And eaſie pillowes under great mens Armes.</l>
+               <l>To make them pleas'd in their alluring charmes.</l>
+               <l>We gather Armies, and we Fleets prepare;</l>
+               <l>And then, both ſtrong and ſafe we thinke we are.</l>
+               <l>But when we look for Victories and glory,</l>
+               <l>What follows, but events that make us ſorry?</l>
+               <l>And 'tis Gods mercy that we turne our faces</l>
+               <l>With ſo few loſſes, and no more diſgraces.</l>
+               <l>For what are moſt of thoſe whom we commend</l>
+               <l>Such actions to; and whom we forth doe ſend</l>
+               <l>To fight thoſe Battels, which the Lords we call,</l>
+               <l>But, ſuch as neither fight for him at all?</l>
+               <l>Whom doſt thou make thy Captaines, and diſpoſe</l>
+               <l>Such offices unto, but unto thoſe</l>
+               <l>(Some few excepted) who procure by friends</l>
+               <l>Command, and pay to ſerve their private ends,</l>
+               <l>Theſe by their unrepented ſins, betray</l>
+               <l>Thy <hi>Cauſe,</hi> by theſe the honour, and the day</l>
+               <l>Is loſt: and when thou hopeſt that thy trouble</l>
+               <l>Shall have an end, thy danger waxeth double.</l>
+            </lg>
+            <lg>
+               <l>We faine would be at peace, but few men goe</l>
+               <l>That way, as yet, whereby it may be ſo.</l>
+               <l>We have not that humility which muſt</l>
+               <l>effect it: we are falſe and cannot truſt</l>
+               <pb n="15" facs="tcp:112504:7"/>
+               <l>Each other, no nor God with true confeſſions;</l>
+               <l>Which ſhews that we abhor not our tranſgreſſions.</l>
+               <l>It proves, that of our errors we in heart</l>
+               <l>Repent not, neither purpoſe to depart</l>
+               <l>From any folly. For all they that are</l>
+               <l>Sincerely penitent, doe nothing feare</l>
+               <l>So much as their owne guilt, nor ſeek to gain</l>
+               <l>Ought, more then to be reconcil'd again.</l>
+               <l>And they that are thus minded, never can</l>
+               <l>Be long unreconcil'd to God or man.</l>
+               <l>Believe me <hi>England,</hi> howſoever ſome</l>
+               <l>Who ſhould foreſee thy plagues before they come,</l>
+               <l>Endeavour to perſwade thee that thou haſt</l>
+               <l>A hopefull time, and that the worſt is paſt</l>
+               <l>Yet I dare boldly tell thee, thou haſt nigh</l>
+               <l>Worne out Gods patience by impietie.</l>
+               <l>And that unleſſe the ſame we doe renue</l>
+               <l>By penitence, our folly we ſhall rue.</l>
+               <l>And, if we doe not more Gods will regard,</l>
+               <l>That miſchiefe is but for a time deferr'd.</l>
+            </lg>
+            <lg>
+               <l>Be mindfull therefore while it is to <hi>day;</hi>
+               </l>
+               <l>And let no good occaſion ſlip away.</l>
+               <l>Now rend your hearts, ye <hi>Brittaines,</hi> waſh &amp; rinſe them</l>
+               <l>From all corruption, from all evill cleanſe them.</l>
+               <l>Goe offer up the pleasing Sacrifice</l>
+               <l>Of <hi>Righteouſneſſe:</hi> from folly turn your eyes.</l>
+               <l>Seek peace, and follow it with ſtrict purſute:</l>
+               <l>Relieve the needy; Judgement execute;</l>
+               <l>Refreſh the weary, right the fatherleſſe:</l>
+               <l>The ſtrangers and the widdows wants redreſſe:</l>
+               <l>Give praiſe to God, depend with lowly faith</l>
+               <l>On him, and what his holie <hi>Spirit</hi> ſaith:</l>
+               <l>Remember what a price thy ranſome coſt,</l>
+               <l>And now redeeme the time that thou haſt loſt.</l>
+               <pb n="16" facs="tcp:112504:8"/>
+               <l>Return, return thou (oh back ſliding Nation)</l>
+               <l>And, let thy teares prevent thy deſolation:</l>
+               <l>As yet thou maiſt return: For Gods embrace</l>
+               <l>Is open for thee, if thou haſt the grace</l>
+               <l>To give it meeting. Yet, Repentance may</l>
+               <l>Prevent the miſchiefes of that evill day</l>
+               <l>Which here is mention'd: yet, thou maiſt have peace,</l>
+               <l>And by diſcreet endeavouring, encreaſe</l>
+               <l>Each outward grace, and ev'ry inward thing,</l>
+               <l>Which will additions to thy comfort bring.</l>
+            </lg>
+            <lg>
+               <l>Now grant us peace oh Lord! for perilous</l>
+               <l>the times are growne, and no man fights for us</l>
+               <l>But thou oh God! Nor do we ſeek or crave,</l>
+               <l>That any other <hi>Champion</hi> we may have.</l>
+               <l>Thy Church in theſe Dominions, Lord preſerve</l>
+               <l>In puritie, and teach us thee to ſerve</l>
+               <l>In holineſſe and righteouſneſſe, untill</l>
+               <l>We ſhall the number of our dayes fulfill.</l>
+               <l>Defend this Kingdome from all overthrowes,</l>
+               <l>By forraigne enemies, or home-bred foes.</l>
+               <l>Our King with ev'ry grace and vertue bleſſe,</l>
+               <l>With thine honour, and his owne, encreaſe.</l>
+               <l>Inflame our Nobles with more love and zeale,</l>
+               <l>To thy true Spouſe, and to this Common-weal.</l>
+               <l>Inſpire our Clergy in their ſever places,</l>
+               <l>With knowledge, and all ſanctifying Graces;</l>
+               <l>That by their lives and doctrines they may reare</l>
+               <l>Thoſe parts of <hi>Zion</hi> which decayed are.</l>
+               <l>Awake theſe <hi>People,</hi> give them ſoules that may</l>
+               <l>Believe thy Words, and thy Commands obey.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
